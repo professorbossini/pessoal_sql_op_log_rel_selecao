@@ -1,0 +1,117 @@
+-- SELECT 3 BETWEEN 1 AND 2;
+
+-- SELECT 1 < 2;
+-- SELECT null = NULL;
+
+-- SELECT NULL > 2;
+
+
+-- SELECT TRUE < TRUE;
+
+-- SELECT TRUE < FALSE;
+
+-- SELECT FALSE < TRUE;
+
+-- SELECT FALSE < FALSE;
+
+-- SELECT TRUE > TRUE;
+-- SELECT TRUE > FALSE;
+-- SELECT FALSE > TRUE;
+-- SELECT FALSE > FALSE;
+
+-- SELECT TRUE <= TRUE;
+-- SELECT TRUE <= FALSE;
+-- SELECT FALSE <= TRUE;
+-- SELECT FALSE <= FALSE;
+
+
+-- SELECT TRUE >= TRUE;
+-- SELECT TRUE >= FALSE;
+-- SELECT FALSE >= TRUE;
+-- SELECT FALSE >= FALSE;
+
+
+-- SELECT TRUE = TRUE;
+-- SELECT TRUE = FALSE;
+-- SELECT FALSE = TRUE;
+-- SELECT FALSE = FALSE;
+
+-- SELECT TRUE <> TRUE;
+-- SELECT TRUE <> FALSE;
+-- SELECT FALSE <> TRUE;
+-- SELECT FALSE <> FALSE;
+
+-- SELECT TRUE != TRUE;
+-- SELECT TRUE != FALSE;
+-- SELECT FALSE != TRUE;
+-- SELECT FALSE != FALSE;
+
+-- SELECT 'bola' < 'carro';
+-- SELECT 'bola' > 'carro';
+-- SELECT 'bola' <= 'carro';
+-- SELECT 'bola' >= 'carro';
+-- SELECT 'bola' = 'carro';
+-- SELECT 'bola' <> 'carro';
+-- SELECT 'bola' != 'carro';
+
+
+-- SELECT 'a10' < 'a9';
+-- SELECT 'a10' > 'a9';
+-- SELECT 'a10' <= 'a9';
+-- SELECT 'a10' >= 'a9';
+-- SELECT 'a10' = 'a9';
+-- SELECT 'a10' <> 'a9';
+-- SELECT 'a10' != 'a9';
+
+-- SELECT 'a' < 'A';
+-- SELECT 'a' > 'A';
+-- SELECT 'a' <= 'A';
+-- SELECT 'a' >= 'A';
+-- SELECT 'a' = 'A';
+-- SELECT 'a' <> 'A';
+-- SELECT 'a' != 'A';
+
+
+-- SELECT 'a' < 'a';
+-- SELECT 'a' > 'a';
+-- SELECT 'a' <= 'a';
+-- SELECT 'a' >= 'a';
+-- SELECT 'a' = 'a';
+-- SELECT 'a' <> 'a';
+-- SELECT 'a' != 'a';
+
+-- SELECT 2 BETWEEN 1 AND 3;
+-- SELECT 2 BETWEEN 1 AND 2;
+
+-- SELECT 2 NOT BETWEEN 1 AND 3;
+
+-- SELECT 2 BETWEEN 3 AND 1;
+
+-- SELECT 2 BETWEEN SYMMETRIC 3 AND 1;
+
+-- SELECT 2 IS DISTINCT FROM NULL;
+-- SELECT NULL IS DISTINCT FROM NULL;
+
+-- SELECT 2 IS NOT DISTINCT FROM NULL;
+
+-- SELECT NULL IS NOT DISTINCT FROM NULL;
+
+-- SELECT NULL IS NULL;
+
+-- SELECT 2 IS NULL;
+
+-- SELECT NULL IS NOT UNKNOWN;
+
+-- SELECT NULL IS DISTINCT FROM UNKNOWN;
+
+-- SELECT 2 IS NOT NULL;
+
+-- SELECT NULL IS NOT NULL;
+
+-- SELECT 2 ISNULL;
+-- SELECT NULL ISNULL;
+
+-- SELECT 2 NOTNULL;
+
+-- SELECT NULL NOTNULL;
+
