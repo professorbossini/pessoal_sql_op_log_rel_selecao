@@ -1,0 +1,1 @@
+pessoal_sql_op_log_rel_selecao
